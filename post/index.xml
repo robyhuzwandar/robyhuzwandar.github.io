@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
-    <link>http://codeta.me/</link>
-    <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <title>Posts on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>http://codeta.me/post/</link>
+    <description>Recent content in Posts on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2017 17:01:35 +0800</lastBuildDate>
     
-	<atom:link href="http://codeta.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://codeta.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
